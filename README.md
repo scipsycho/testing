@@ -1,5 +1,7 @@
 #Dharmesh Singh 
-alias ##Scipsycho
+
+
+##Scipsycho
 
 ### Geography
 
