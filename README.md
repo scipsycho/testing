@@ -1,28 +1,20 @@
-# This is a large heading
+# Dharmesh Singh 
 
-## This is a smaller heading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## Scipsycho
 
-- This is
-- an unordered
-- list
+### Geography
 
-1. This is
-2. an ordered
-3. list
+I live in the city, New Delhi in India.
 
-Here is `some code` in the middle of a sentence.
+### Hobbies
 
-```
-This is
-a block
-of code
-```
+Three of my favourite hobbies are:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- *Watching Movies* and *playing video games*
+- *Playing Basketball* and *Juggling*
+- *Learning more about Computers*
 
-![This is an image.](http://www.followingthenerd.com/site/wp-content/uploads/dishonoured.jpg)
+### Contact
+
+Best way to contact me is [on Twitter](https://twitter.com/scipsycho1)
